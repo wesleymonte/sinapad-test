@@ -1,0 +1,6 @@
+Test3
+
+jobs = 10
+n = 4
+workers = 2
+VM worker ( vcpu = 8 ; ram = 16 GB)
